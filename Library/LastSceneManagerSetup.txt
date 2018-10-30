@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/bitirme.unity
+  isLoaded: 1
+  isActive: 1
